@@ -1,0 +1,10 @@
+mcsi211 name youGet outOf weight
+A1 6.5 10 5
+A2 6 10 5
+A3 8.5 10 5
+A4 8 10 5
+A5 6.5 10 5
+Attendance 5 5 5
+Midterm 56 100 30
+Final 60 100 40
+

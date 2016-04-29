@@ -1,0 +1,8 @@
+cs240 name youGet outOf weight
+A1 48.5 73 5
+A2 47 65 5
+A3 62 62 5
+A4 68 74 5
+A5 61 63 5
+Midterm 42 60 25
+Final 80 100 50

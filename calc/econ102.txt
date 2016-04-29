@@ -1,0 +1,4 @@
+econ102 name youGet outOf weight
+Midterm1 43 55 25
+Midterm1 43 55 25
+Final 74 100 50

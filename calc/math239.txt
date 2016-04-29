@@ -1,0 +1,12 @@
+math239 name youGet outOf weight
+A1 28 30 1
+A2 22 30 1
+A3 22 32 1
+A4 31 33 1
+A5 24 26 1
+A6 33 35 1
+A7 22 25 1
+A8 29 32 1
+A10 10 11 1
+Midterm 29 55 30
+Final 44 100 60
